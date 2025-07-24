@@ -1,0 +1,2 @@
+Palindromic sequence 
+is a sequence of numbers that reads the same forward and backward.
